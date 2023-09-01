@@ -14,9 +14,3 @@
 
   <li>𝗞𝗲𝗹𝗶𝗺𝗲 𝗦𝗮𝘆ı𝘀ı, 𝗛𝗮𝗿𝗳 𝗦𝗮𝘆ı𝘀ı, 𝗞𝗮𝗿𝗮𝗸𝘁𝗲𝗿 𝗦𝗮𝘆ı𝘀ı</li>
   <des>Kelimenizdeki harf sayısını, karakter sayısını veya cümlenizdeki kelime sayısını, harf sayısını, karakter sayısını öğrenebilirsiniz.</des>
-
-
-<pre>
-Twitter: twitter.com/dolpsoft
-İletişim: rekld26@gmail.com
-</pre>
